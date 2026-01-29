@@ -17,3 +17,13 @@ python testing.py
   18 git rm --cached testing.py
   19 git status
   20 git add testing.py
+   git add testing.py
+  21 git status
+  22 git commit -m "add file testing.py"
+  23 gitstatus
+  24 git status
+  25 rm testis.py
+  26 rm testing.py
+  27 git status
+  28 ls
+  29 dir
